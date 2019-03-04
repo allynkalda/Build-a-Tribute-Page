@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif');
+
+html {
+	background: linear-gradient(
+	45deg,
+    #b2f0f7,
+    #cef2a4
+    ) fixed;
+}
+p {
+	font-family: "Crimson Text", serif;
+}
+h1 {
+	font-family: "Bree Serif", serif;
+	font-size: 40px;
+	text-align: center;
+}
+h2 {
+	text-align: center;
+	font-family: "Crimson Text", serif;
+}
+h3 {
+	font-family: "Bree Serif", serif;
+}
+#img-caption {
+	text-align: center;
+}
+
+#box-1 {
+	background-color: #f9f986;
+    width: 50%;
+    height: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    padding: 5px 0px 15px 0px;
+    border-radius: 30em;
+}
+#image {
+  	max-width: 100%;
+  	display: block;
+ 	height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+#tribute-info {
+	background-color: #f9f986;
+    width: 80%;
+    height: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 20px 20px 20px;
+    border-radius: 3em;
+}
+#quote {
+    width: 60%;
+    height: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 80px 20px 20px 20px;
+}
+#quote-text {
+	font-size: 35px;
+}
+#name {
+	font-size: 20px;
+	text-align: right;
+}
+#footer {
+	padding-top: 60px;
+}
